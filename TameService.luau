@@ -2,7 +2,7 @@
 --[==[
 
 	[TameService.luau]:
-		Handle Catch A Pet's taming mechanic
+		Backend logic for Catch A Pet's Taming System
 
 	[Author(s)]:
 		- Vyon (https://github.com/Vyon)
